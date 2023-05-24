@@ -5,11 +5,11 @@
     <img width="210" height="200" src="https://raw.githubusercontent.com/AgamChopra/TorchPatchNMI/main/Figure%202023-05-24%20025736%20(0).png">
     <img width="210" height="200" src="https://raw.githubusercontent.com/AgamChopra/TorchPatchNMI/main/Figure%202023-05-24%20025736%20(1).png">
     <br><i>Fig. 2D input signals.</i><br><br>
-    <img width="280" height="200" src="https://raw.githubusercontent.com/AgamChopra/TorchPatchNMI/main/Figure%202023-05-24%20025736%20(2).png">
-    <img width="280" height="200" src="https://raw.githubusercontent.com/AgamChopra/TorchPatchNMI/main/Figure%202023-05-24%20025736%20(3).png">
-    <img width="280" height="200" src="https://raw.githubusercontent.com/AgamChopra/TorchPatchNMI/main/Figure%202023-05-24%20025736%20(4).png">
+    <img width="180" height="140" src="https://raw.githubusercontent.com/AgamChopra/TorchPatchNMI/main/Figure%202023-05-24%20025736%20(2).png">
+    <img width="180" height="140" src="https://raw.githubusercontent.com/AgamChopra/TorchPatchNMI/main/Figure%202023-05-24%20025736%20(3).png">
+    <img width="180" height="140" src="https://raw.githubusercontent.com/AgamChopra/TorchPatchNMI/main/Figure%202023-05-24%20025736%20(4).png">
     <br><i>Fig. SignalA PDF(left), SignalA PDF(middle), SignalAB joint PDF(right).</i><br><br>
-    <img width="280" height="200" src="https://raw.githubusercontent.com/AgamChopra/TorchPatchNMI/main/Figure%202023-05-24%20025736%20(5).png">
+    <img width="380" height="300" src="https://raw.githubusercontent.com/AgamChopra/TorchPatchNMI/main/Figure%202023-05-24%20025736%20(5).png">
     <br><i>Fig. NMI scores for each sub-region/patch.</i><br><br>
 </p>
 
